@@ -931,3 +931,9 @@
 [data-overlay="9"]::before {
 	opacity: 0.9;
 }
+
+.white-container{
+	background-color: white;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
